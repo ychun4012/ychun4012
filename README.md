@@ -10,7 +10,7 @@
 
 ### Currently
 
-- 🏫 신한DS 금융SW아카데미 수강 중 (Java, SQL, HTML/CSS/JS)
+- 🏫 신한DS 금융SW아카데미 7기
 ---
 
 ### Tech Stack
