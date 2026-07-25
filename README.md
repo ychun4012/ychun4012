@@ -14,7 +14,7 @@
 
 ## ✨About Me
 
-- 경북대학교 사회학과 (개발자로 전향) `2021 -`
+- 경북대학교 사회학과 `2021 -`
 - State University of New York at Oswego 교환학생 `2023 Fall - 2024 Spring`
 - 신한DS 금융SW아카데미 7기 `2026.05 - `
 <br>
