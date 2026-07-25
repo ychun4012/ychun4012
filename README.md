@@ -21,15 +21,19 @@
 
 ---
 
-## Tech Stack
-
+### Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,js,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,gradle,mysql,python,oracle,js,html,css&theme=dark" />
   </a>
 </p>
 
-<br>
+### Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,redis,github,notion,eclipse,idea,postman&theme=dark" />
+  </a>
+</p>
 
 ---
 
