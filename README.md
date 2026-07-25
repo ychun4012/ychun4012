@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Yoojin
+# Yoojin
 ### Full-Stack Developer
 
 
