@@ -23,7 +23,7 @@
 
 ---
 
-## 🐾Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -39,7 +39,7 @@
 
 ---
 
-## 🐾Currently
+## Currently
 
 - 신한DS 금융SW아카데미 7기 과정 진행 중
 - 백엔드 심화 학습 및 프로젝트 진행 중
@@ -47,7 +47,7 @@
 
 ---
 
-## 🐾GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user={ychun4012}" alt="streak" />
