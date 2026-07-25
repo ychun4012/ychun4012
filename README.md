@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white"/>
 </p>
 <br>
+
 ---
 
 ## 📌 Currently
@@ -42,6 +43,7 @@
 - 🏫 신한DS 금융SW아카데미 7기 과정 진행 중
 - 📚 백엔드 심화 학습 및 프로젝트 진행 중
 <br>
+
 ---
 
 ## 📊 GitHub Stats
