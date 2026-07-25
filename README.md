@@ -46,12 +46,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ychun4012&show_icons=true&theme=merko" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ychun4012&theme=merko" width="48%"/>
-</p>
-
-<p align="center">
-  <a href="https://solved.ac/ychun4012">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ychun4012"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user={ychun4012}" alt="streak" />
 </p>
