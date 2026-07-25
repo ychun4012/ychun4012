@@ -23,7 +23,6 @@
 
 ---
 
-<br>
 ## Tech Stack
 
 <p align="left">
@@ -40,7 +39,6 @@
 
 ---
 
-<br>
 ## Currently
 
 - 🏫 신한DS 금융SW아카데미 7기 과정 진행 중
@@ -49,7 +47,6 @@
 
 ---
 
-<br>
 ## GitHub Stats
 
 <p align="center">
