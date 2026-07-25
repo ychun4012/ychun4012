@@ -1,7 +1,6 @@
 <div align="center">
 
-# Yoojin
-### Full-Stack Developer
+Full-Stack Developer
 
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=ychun4012&utm_content=line">
