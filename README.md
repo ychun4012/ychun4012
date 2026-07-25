@@ -1,7 +1,6 @@
 <div align="center">
 
-Full-Stack Developer
-
+### Full-Stack Developer
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=ychun4012&utm_content=line">
   <img
@@ -11,10 +10,9 @@ Full-Stack Developer
   />
 </a>
   
-
 </div>
-
 ---
+<br>
 
 ## 💡 About Me
 
@@ -23,6 +21,7 @@ Full-Stack Developer
 - 🏫 신한DS 금융SW아카데미 7기
 
 ---
+<br>
 
 ## 🛠 Tech Stack
 
@@ -38,12 +37,15 @@ Full-Stack Developer
 </p>
 
 ---
+<br>
 
 ## 📌 Currently
 
 - 🏫 신한DS 금융SW아카데미 7기 과정 진행 중
 - 📚 백엔드 심화 학습 및 프로젝트 진행 중
 
+---
+<br>
 
 ## 📊 GitHub Stats
 
