@@ -55,3 +55,9 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yex64fenvk7zqh6qvkw2mfr2li&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=ffd1f0&bar_color_cover=true" width="48%"/>
   </a>
 </p>
+
+<div align="left">
+  
+<img src="https://komarev.com/ghpvc/?username=ychun4012&&style=flat-square" align="left" />
+
+</div>  
