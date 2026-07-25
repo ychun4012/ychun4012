@@ -50,7 +50,7 @@
 
 ## Status
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={ychun4012}" alt="streak" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user={ychun4012}&theme=merko" alt="streak" width="48%"/>
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yex64fenvk7zqh6qvkw2mfr2li&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=ffd1f0&bar_color_cover=true" width="48%"/>
   </a>
